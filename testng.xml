@@ -6,7 +6,7 @@
         <classes>
             <class name="tests.PhoneBookTest">
                 <methods>
-                    <include name="phoneBookTest_001"/>
+                    <include name="registrationWithoutPassword"/>
                 </methods>
             </class>
         </classes>
@@ -16,7 +16,7 @@
         <classes>
             <class name="tests.PhoneBookTest">
                 <methods>
-                    <include name="phoneBookTest_001"/>
+                    <include name="createContactForRegistratedUser"/>
                 </methods>
             </class>
         </classes>
